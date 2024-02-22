@@ -64,3 +64,5 @@
 * Deploy
 * Hypervisor 
 * BCDR (Business Continuity and Disaster Recovery)
+
+* Link: https://www.youtube.com/watch?v=6hRzUNLmZ0E&list=PLuVH8Jaq3mLsYeR_xaW0RW1KR9BZKFBT4 
