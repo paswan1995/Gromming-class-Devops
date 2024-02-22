@@ -38,8 +38,12 @@
 
 ![preview](images/6.png) 
 
-* Edge network: https://aws.amazon.com/cloudfront/features/?whats-new-cloudfront.sort-by=item.additionalFields.postDateTime&whats-new-cloudfront.sort-order=desc#Global_Edge_Network
+* Local Zones: To have more locational presence
   
+![preview](images/7.png)
+
+* Edge network: https://aws.amazon.com/cloudfront/features/?whats-new-cloudfront.sort-by=item.additionalFields.postDateTime&whats-new-cloudfront.sort-order=desc#Global_Edge_Network
+
 ## Credentials
 
 * Username/Password
